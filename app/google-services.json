@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965936187870",
+    "project_id": "kaoz-9063f",
+    "storage_bucket": "kaoz-9063f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965936187870:android:6dc3d77fef94686901b54f",
+        "android_client_info": {
+          "package_name": "com.vanishing.kaoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965936187870-go79k3mqpa0sjqhtg1ksfpartmal5d29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlvQvrFKwTEbC5bDlSkoV4yIRf6jiZSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965936187870-go79k3mqpa0sjqhtg1ksfpartmal5d29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
